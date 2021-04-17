@@ -1,4 +1,4 @@
 # IaCTemplate
 Repository for IaC templates
 
-Cloud formation templated
+AWS Cloud formation templates
